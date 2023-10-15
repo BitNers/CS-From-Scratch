@@ -1,0 +1,20 @@
+#divMainImage{
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+}
+
+#divMainImage > img{
+    width: 75%;
+    max-width: max-content;
+}
+
+
+#divMainTitle{
+    margin: 0 auto;
+}
+
+#divMainTitle > *{
+    margin: 0 auto;
+    line-height: 3.4rem;
+}
